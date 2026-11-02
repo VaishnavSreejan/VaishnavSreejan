@@ -1,143 +1,232 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- =============== DARK BLUE & BLACK PROFILE README =============== -->
 
 <div align="center">
 
-# VAISHNAV SREEJAN
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#030712">
 
-### B.Tech CSE (Data Science) Student | Aspiring Software Engineer
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:030712,50:071426,100:102A56&text=VAISHNAV%20SREEJAN&fontColor=38BDF8&fontSize=42&fontAlignY=45&desc=DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=72&descSize=15" width="100%" />
+
+<br>
+
+<h3>
+<font color="#60A5FA">B.Tech CSE (Data Science) Student</font>
+</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-102A56?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Development-1E40AF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<font color="#CBD5E1">Aspiring Software Engineer | Python Developer | Data Science Enthusiast</font>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/vaishnav-sreejan-63ab8332a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-website-dun-beta-26.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/VaishnavSreejan">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:vaishnavsreejan80@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/VaishnavSreejan">
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://www.linkedin.com/in/vaishnav-sreejan-63ab8332a">
+<img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="https://portfolio-website-dun-beta-26.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-102A56?style=for-the-badge&logo=vercel&logoColor=60A5FA" />
+</a>
+<a href="mailto:vaishnavsreejan80@gmail.com">
+<img src="https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
+</a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- ABOUT ME -->
 
-## 👨‍💻 About Me
+<table width="100%">
+<tr>
+<td bgcolor="#071426">
 
-I'm a third-year **B.Tech Computer Science and Engineering (Data Science)** student interested in building practical software solutions and exploring data-driven technologies.
+<h2><font color="#38BDF8">01 / ABOUT ME</font></h2>
 
-- 🎓 Pursuing B.Tech in CSE (Data Science).
-- 💻 Interested in Python, software development, and backend engineering.
-- 📊 Exploring data analysis, machine learning, and database technologies.
-- 🛠️ Enjoy building projects that solve practical problems.
-- 🌱 Continuously learning and improving my technical skills.
+<font color="#CBD5E1">
 
----
+I'm a third-year B.Tech Computer Science and Engineering (Data Science) student interested in software development, backend engineering, and data-driven technologies.
 
-## 🧰 Technical Skills
+- 🎓 B.Tech CSE (Data Science) student.
+- 💻 Interested in Python and software development.
+- 📊 Exploring data analytics and machine learning.
+- 🗄️ Interested in databases and backend technologies.
+- 🚀 Enjoy building practical projects and learning new technologies.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+</font>
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HBase](https://img.shields.io/badge/Apache_HBase-1F4E79?style=flat-square)
+<!-- SKILLS -->
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<table width="100%">
+<tr>
+<td bgcolor="#030712">
 
----
+<h2><font color="#38BDF8">02 / TECHNICAL SKILLS</font></h2>
 
-## 🚀 Featured Projects
+<h3><font color="#60A5FA">Programming Languages</font></h3>
 
-### 1. SQL Migrator
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/C-0B1F3A?style=for-the-badge&logo=c&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/R-0B1F3A?style=for-the-badge&logo=r&logoColor=38BDF8" />
+
+<h3><font color="#60A5FA">Data Science & Analytics</font></h3>
+
+<img src="https://img.shields.io/badge/Pandas-102A56?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-102A56?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-102A56?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-102A56?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/PySpark-102A56?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+<h3><font color="#60A5FA">Backend & Databases</font></h3>
+
+<img src="https://img.shields.io/badge/Flask-071426?style=for-the-badge&logo=flask&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/FastAPI-071426?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PostgreSQL-071426?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-071426?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQLite-071426?style=for-the-badge&logo=sqlite&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/HBase-071426?style=for-the-badge&logo=apachehadoop&logoColor=38BDF8" />
+
+<h3><font color="#60A5FA">Tools & Platforms</font></h3>
+
+<img src="https://img.shields.io/badge/Git-102A56?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-102A56?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-102A56?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-102A56?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECTS -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#071426">
+
+<h2><font color="#38BDF8">03 / FEATURED PROJECTS</font></h2>
+
+<h3><font color="#60A5FA">01. SQL Migrator</font></h3>
+
+<font color="#CBD5E1">
+
 **An ETL-Based Multi-Dialect Database Migration System**
 
-A database migration project designed to convert SQL scripts and schemas across different database systems.
+A database migration system designed to convert SQL scripts and schemas between different database platforms.
 
-- SQL migration between MySQL, PostgreSQL, Oracle, and SQLite.
-- Flask-based REST API backend.
+- SQL migration across MySQL, PostgreSQL, Oracle, and SQLite.
+- Flask REST API backend.
 - Data validation and migration processing.
-- CSV/Excel import and export capabilities.
+- CSV and Excel import/export functionality.
 
-**Technologies:** Python, Flask, SQLAlchemy, MySQL, PostgreSQL, Pandas
+**Tech Stack:** Python · Flask · SQLAlchemy · PostgreSQL · MySQL · Pandas
 
-🔗 [View Project Repository](https://github.com/sql-migrator-team/SQL-MIGRATOR)
+</font>
 
-### 2. KINO – Big Data Movie Recommendation System
+<a href="https://github.com/sql-migrator-team/SQL-MIGRATOR">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-A Big Data-based movie recommendation project that helps users discover movies through ratings, keywords, and mood-based searches.
+<hr>
 
-- Processes MovieLens dataset using Apache PySpark.
+<h3><font color="#60A5FA">02. KINO – Big Data Movie Recommendation System</font></h3>
+
+<font color="#CBD5E1">
+
+A Big Data movie recommendation system that helps users discover movies through ratings, keywords, and mood-based searches.
+
+- Processes MovieLens data using Apache PySpark.
 - Uses HBase for movie data storage.
-- Provides movie recommendations and search features.
-- Integrates TMDb data for movie information and visuals.
+- Provides keyword and mood-based movie discovery.
+- Integrates TMDb movie information.
 
-**Technologies:** Python, Apache PySpark, HBase, FastAPI, HTML, CSS, JavaScript
+**Tech Stack:** Python · PySpark · HBase · FastAPI · HTML · CSS · JavaScript
 
-### 3. Pipeline Hazards – RISC-V Processor Analysis
+</font>
+
+<hr>
+
+<h3><font color="#60A5FA">03. Pipeline Hazards – RISC-V Processor Analysis</font></h3>
+
+<font color="#CBD5E1">
 
 A project exploring data, structural, and control hazards in a five-stage RISC-V processor pipeline.
 
-- Studies pipeline execution and instruction flow.
+- Studies instruction execution and pipeline flow.
 - Identifies different types of pipeline hazards.
 - Uses Ripes for processor simulation and analysis.
 
 **Tool:** Ripes
 
----
+</font>
 
-## 💼 Internship Experience
+</td>
+</tr>
+</table>
 
-### Backend & Database Migration Intern
-**Dinesh IT Systems** | June 2026
+<!-- EXPERIENCE -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#030712">
+
+<h2><font color="#38BDF8">04 / INTERNSHIP EXPERIENCE</font></h2>
+
+<h3><font color="#60A5FA">Backend & Database Migration Intern</font></h3>
+
+<font color="#CBD5E1">
+
+**Dinesh IT Systems | June 2026**
 
 - Worked on SQL database migration tasks.
-- Contributed to a MySQL-to-PostgreSQL migration workflow.
+- Contributed to MySQL-to-PostgreSQL migration workflows.
 - Worked with Flask REST APIs and backend processing.
 - Explored data validation and relational database structures.
 
-### Python for Data Science Intern
-**Neovent Innovations** | June 2025
+</font>
 
-- Worked with Python for data analysis.
-- Practised data cleaning and exploratory data analysis.
-- Explored data visualization and machine learning concepts.
-- Worked with Pandas, NumPy, and Scikit-learn.
+<hr>
 
----
+<h3><font color="#60A5FA">Python for Data Science Intern</font></h3>
 
-## 🏅 Certifications & Recognitions
+<font color="#CBD5E1">
+
+**Neovent Innovations | June 2025**
+
+- Practised Python-based data analysis.
+- Worked with data cleaning and exploratory data analysis.
+- Explored data visualization and machine learning.
+- Used Pandas, NumPy, and Scikit-learn.
+
+</font>
+
+</td>
+</tr>
+</table>
+
+<!-- CERTIFICATIONS -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#071426">
+
+<h2><font color="#38BDF8">05 / CERTIFICATIONS & RECOGNITIONS</font></h2>
+
+<font color="#CBD5E1">
 
 | Certification / Recognition | Issuer |
-|---|---|
+|:---|:---|
 | Young Innovators Programme (YIP) 9.0 – Certificate of Recognition | K-DISC, Government of Kerala |
 | Getting Started with Generative AI | IBM |
 | DASHNOVA – Power BI Workshop | DASHNOVA |
@@ -145,50 +234,102 @@ A project exploring data, structural, and control hazards in a five-stage RISC-V
 | Python for Data Science | Neovent Innovations |
 | Data Science Virtual Internship | CodeAlpha |
 
----
+</font>
 
-## 🤝 Memberships & Activities
+</td>
+</tr>
+</table>
 
-### VBLAZE STM – The Design Club
-**Member & Creative Contributor**  
-St Thomas College of Engineering and Technology, Sivapuram, Kannur
+<!-- MEMBERSHIPS -->
 
-- Participating in collaborative and creative activities.
-- Exploring design thinking, teamwork, and communication.
+<table width="100%">
+<tr>
+<td bgcolor="#030712">
 
-### ISTE – Student Member
-**St Thomas College of Engineering and Technology Chapter**  
-October 2024 – Present
+<h2><font color="#38BDF8">06 / MEMBERSHIPS & ACTIVITIES</font></h2>
 
-- Engaging with technical learning opportunities.
+<h3><font color="#60A5FA">VBLAZE STM – The Design Club</font></h3>
+
+<font color="#CBD5E1">
+
+**Member & Creative Contributor**
+
+St Thomas College of Engineering and Technology, Sivapuram, Kannur.
+
+- Collaborative activities and creative contributions.
+- Design thinking, teamwork, and communication.
+
+</font>
+
+<hr>
+
+<h3><font color="#60A5FA">ISTE – Student Member</font></h3>
+
+<font color="#CBD5E1">
+
+**October 2024 – Present**
+
+St Thomas College of Engineering and Technology Chapter.
+
+- Participating in technical learning opportunities.
 - Exploring engineering developments and technical activities.
 
----
+</font>
 
-## 📌 Currently Exploring
+</td>
+</tr>
+</table>
 
-- Python and advanced programming concepts.
+<!-- CURRENT FOCUS -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#071426">
+
+<h2><font color="#38BDF8">07 / CURRENTLY EXPLORING</font></h2>
+
+<font color="#CBD5E1">
+
+- Python and advanced programming.
 - Backend development and REST APIs.
 - Data analytics and machine learning.
 - Database management and SQL.
 - Generative AI and its applications.
 
----
+</font>
 
-## 📫 Connect With Me
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/VaishnavSreejan">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaishnav-sreejan-63ab8332a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://portfolio-website-dun-beta-26.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<!-- GITHUB LINKS -->
 
-<p align="center">
-  <i>Learning, building, and improving — one project at a time.</i>
-</p>
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#030712">
+
+<h2><font color="#38BDF8">08 / FIND ME ONLINE</font></h2>
+
+<a href="https://github.com/VaishnavSreejan">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-102A56?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnav-sreejan-63ab8332a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-102A56?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+
+<a href="https://portfolio-website-dun-beta-26.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-102A56?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+</a>
+
+<a href="mailto:vaishnavsreejan80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-102A56?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:102A56,50:071426,100:030712&section=footer&text=LEARN%20%7C%20BUILD%20%7C%20INNOVATE&fontColor=38BDF8&fontSize=20" width="100%" />
+
+</td>
+</tr>
+</table>

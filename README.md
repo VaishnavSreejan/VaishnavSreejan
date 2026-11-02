@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/vaishnav-sreejan-63ab8332a">
 <img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
-<a href="https://portfolio-website-dun-beta-26.vercel.app">
+<a href="https://vaishnavsreejan-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-102A56?style=for-the-badge&logo=vercel&logoColor=60A5FA" />
 </a>
 <a href="mailto:vaishnavsreejan80@gmail.com">

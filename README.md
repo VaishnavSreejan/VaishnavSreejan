@@ -318,7 +318,7 @@ St Thomas College of Engineering and Technology Chapter.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-102A56?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
-<a href="https://portfolio-website-dun-beta-26.vercel.app">
+<a href="https://vaishnavsreejan-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-102A56?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a>
 

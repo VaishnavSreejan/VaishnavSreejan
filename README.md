@@ -403,25 +403,31 @@ Developing innovative ideas and exploring technology-based solutions.
 <!-- 09 // GITHUB STATISTICS                                          -->
 <!-- ================================================================ -->
 
+
 <h2 align="center">09 // GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaishnavSreejan&show_icons=true&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&ring_color=2563EB" />
+<!-- GITHUB STATS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaishnavSreejan&show_icons=true&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&ring_color=2563EB" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnavSreejan&hide_border=true&background=030712&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" />
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavSreejan&layout=compact&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=CBD5E1" />
+<!-- STREAK STATS -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=VaishnavSreejan&hide_border=true&background=030712&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnavSreejan&bg_color=030712&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%"/>
+<!-- TOP LANGUAGES -->
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavSreejan&layout=compact&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnavSreejan&bg_color=030712&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
 <br/>
+
 
 <!-- ================================================================ -->
 <!-- 10 // CONTRIBUTION SNAKE                                         -->
